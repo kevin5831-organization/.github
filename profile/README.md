@@ -1,6 +1,6 @@
 # Plutio
 
-A mobile application built with [Expo](https://expo.dev).
+Plutio is All-In-One platform. A mobile application built with [Expo](https://expo.dev).
 
 ## Getting Started
 
